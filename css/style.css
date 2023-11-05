@@ -6,6 +6,22 @@
     color: white;
 }
 
-a .wp-block-button__link .wp-element-button{
-    background-color: aqua;
+.butao{
+    align-items: center;
 }
+
+.aqua-button {
+    background-color: aqua;
+    color: black;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .aqua-button:hover {
+    background-color: lightcyan;
+  }
+  
