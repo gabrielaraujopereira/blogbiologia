@@ -5,3 +5,7 @@
 .custom-logo-link{
     color: white;
 }
+
+a .wp-block-button__link .wp-element-button{
+    background-color: aqua;
+}
